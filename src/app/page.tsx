@@ -61,7 +61,7 @@ export default function Home() {
               imageAlt: "iPhone"
             },
             {
-              imageSrc: "https://pixabay.com/get/g0965b76e64d2eb8a215827a977d79c5c70d27d6eeed74a962987e17b587f21089c66ce59518c285d1ebacfb971b961b4ef776d7aae347b7a664f390ffaf0f499_1280.jpg",
+              imageSrc: "https://pixabay.com/get/g89c8c91ed8a92755cae01515b8458acb59f92059815f89690ad834332fd92e45a8e88fa4e32548f839cafb84ae95de8282fc867e208a2a289971d9b7bab0d4a2_1280.jpg",
               imageAlt: "MacBook Pro"
             },
             {
