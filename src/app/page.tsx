@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
@@ -311,7 +311,7 @@ export default function Home() {
             "https://pixabay.com/get/g42157e5f625917f51657c92afacab62d84a2e94a988e49f091617eedc0f031e034fc31b046128aca9b1b6054b0dcdcf5553b168387f6b87231e1b9fdffbe0770_1280.jpg",
             "https://pixabay.com/get/gb36d39052eb2481a3a853fd24b3c450e2c92afe55ce49f66da7a009d70c7c54554c114eb0bb344303132f9dbf6d273fc1d5a8ce14069602793a07f6d16993dcf_1280.jpg",
             "https://pixabay.com/get/g9300357a90f53e07e3b0b24842ec104039c134941296910f1fdfa96945b5128ad9bb1837ff392e12f4d469a8135bbf27654db54b117aea35f00dc5e3455fa3d4_1280.jpg"
-          ]
+          ]}
           speed={35}
           showCard={true}
         />
